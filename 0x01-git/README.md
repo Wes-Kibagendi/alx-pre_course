@@ -1,1 +1,1 @@
-Learning Git
+Getting started with Git
